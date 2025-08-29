@@ -36,8 +36,6 @@ class Stack:
         temp.next = None
         self.height -= 1
         return temp
-        
-            
     
 
 class Queue:
